@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sunsetOnFire-Ps4/static/css/main.9fbc2ec8.chunk.css",
+    "main.js": "/sunsetOnFire-Ps4/static/js/main.9ba11ff4.chunk.js",
+    "main.js.map": "/sunsetOnFire-Ps4/static/js/main.9ba11ff4.chunk.js.map",
+    "runtime-main.js": "/sunsetOnFire-Ps4/static/js/runtime-main.6e174b91.js",
+    "runtime-main.js.map": "/sunsetOnFire-Ps4/static/js/runtime-main.6e174b91.js.map",
+    "static/js/2.2ef7cdde.chunk.js": "/sunsetOnFire-Ps4/static/js/2.2ef7cdde.chunk.js",
+    "static/js/2.2ef7cdde.chunk.js.map": "/sunsetOnFire-Ps4/static/js/2.2ef7cdde.chunk.js.map",
+    "index.html": "/sunsetOnFire-Ps4/index.html",
+    "precache-manifest.086e4a802506040a18c706220cfd64f7.js": "/sunsetOnFire-Ps4/precache-manifest.086e4a802506040a18c706220cfd64f7.js",
+    "service-worker.js": "/sunsetOnFire-Ps4/service-worker.js",
+    "static/css/main.9fbc2ec8.chunk.css.map": "/sunsetOnFire-Ps4/static/css/main.9fbc2ec8.chunk.css.map",
+    "static/js/2.2ef7cdde.chunk.js.LICENSE.txt": "/sunsetOnFire-Ps4/static/js/2.2ef7cdde.chunk.js.LICENSE.txt",
+    "static/media/pslogo.png": "/sunsetOnFire-Ps4/static/media/pslogo.4932085e.png",
+    "static/media/soflogo.png": "/sunsetOnFire-Ps4/static/media/soflogo.041513fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e174b91.js",
+    "static/js/2.2ef7cdde.chunk.js",
+    "static/css/main.9fbc2ec8.chunk.css",
+    "static/js/main.9ba11ff4.chunk.js"
+  ]
+}
