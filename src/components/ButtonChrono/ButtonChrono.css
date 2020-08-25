@@ -1,0 +1,14 @@
+.bn {
+  width: 100px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  border: 1px solid #f3ac5f;
+  border-radius: 15px;
+  background-color: #FB5D42;
+}
+div.bn:hover {
+  background-color: #fb6143;
+}
