@@ -60,6 +60,9 @@ const Chrono = () => {
   const startChrono = () => {
     setStart(1)
     setCost(0)
+    setHour(0)
+    setMinute(0)
+    setSeconde(0)
   }
 
   const restart = () => {
